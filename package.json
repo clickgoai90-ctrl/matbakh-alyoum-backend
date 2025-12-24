@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "a simple expressjs app",
   "main": "src/index.js",
-  "type": "module",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon src/index.js",

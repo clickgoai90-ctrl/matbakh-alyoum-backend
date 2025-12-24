@@ -1,18 +1,12 @@
 {
-  "name": "express-simple-template",
+  "name": "matbakh-alyoum-backend",
   "version": "1.0.0",
-  "description": "a simple expressjs app",
   "main": "src/index.js",
-  "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/index.js",
     "start": "node src/index.js"
-  },
-  "devDependencies": {
-    "nodemon": "^3.0.1"
   },
   "dependencies": {
     "express": "^4.18.2",
-    "axios": "^1.4.0"
+    "cors": "^2.8.5"
   }
 }
